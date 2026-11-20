@@ -1,0 +1,12 @@
+Package: kylin-update-search
+Version: 1.2.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3 (>= 3.6), python3-pyqt5, python3-requests
+Maintainer: LiangWeitian <liangweitian@kylinos.cn>
+Description: 麒麟系统更新与安全漏洞联合查询助手
+ 一次输入关键字，同时检索银河麒麟系统更新（BUG修复/功能更新公告）
+ 与安全漏洞（CVE/KVE）信息，返回所属来源、简介、风险等级和详情链接。
+Installed-Size: 200
+Homepage: https://support.kylinos.cn/

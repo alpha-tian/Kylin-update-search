@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=更新漏洞查询助手
+Name[en]=Kylin Update & CVE Search
+Comment=麒麟系统更新与安全漏洞关键字查询工具
+Comment[en]=Search Kylin OS updates and CVE advisories by keyword
+Exec=/opt/kylin-update-search/update_gui.py
+Icon=kylin-update-search
+Terminal=false
+Categories=Utility;Network;
+Keywords=kylin;更新;漏洞;CVE;补丁;
+StartupNotify=true
